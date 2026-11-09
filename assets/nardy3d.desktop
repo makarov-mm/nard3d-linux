@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=3D Nardy
+Name[ru]=Нарды 3D
+Comment=Long and short nardy (backgammon) against the computer or a friend
+Comment[ru]=Длинные и короткие нарды против компьютера или друга
+Exec=nardy3d
+Icon=nardy3d
+Terminal=false
+Categories=Game;BoardGame;
+Keywords=nardy;nardi;backgammon;tavla;board game;
+Keywords[ru]=нарды;длинные нарды;короткие нарды;бэкгаммон;настольная игра;
+StartupWMClass=nardy3d
